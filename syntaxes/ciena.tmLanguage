@@ -25,7 +25,7 @@
 
 		<dict>
 			<key>match</key>
-			<string>^(vlan|port|log flash|system|interface|private-forwarding-groups|ntp-client|benchmark generator|snmp|eoam|ssh server|chassis|user|traffic-services( cos-mapping)?|traffic-profiling( standard-profile)?|cfm|mstp|rstp|virtual-switch|virtual-circuit|lldp|aggregation|dhcp|ssh-server)</string>
+			<string>^(vlan|port|log flash|system|interface|private-forwarding-groups|ntp-client|benchmark generator|snmp|eoam|ssh server|chassis|user|traffic-services( cos-mapping)?|traffic-profiling( standard-profile)?|cfm|mstp|rstp|virtual-switch|virtual-circuit|lldp|aggregation|dhcp|ssh-server|ais|mpls|isis|bfd|ntp|dns\-client)</string>
 			<key>name</key>
 			<string>storage.type.ciena</string>
 		</dict>
